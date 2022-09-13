@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= tlsrb100&layout=compact&theme=onedark">
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tlsrb100&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tlsrb100&show_icons=true&theme=solarized-light)
 
 
 <!--자바스크립트 배지-->
