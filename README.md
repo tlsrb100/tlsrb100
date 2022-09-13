@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tlsrb100&show_icons=true&theme=solarized-light)
 
 #### 🛠️ Github Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디&layout=레이아웃 스타일&theme=스타일)
-출처: https://eunhee-programming.tistory.com/244?category=1233835 [코드짜는 문과녀:티스토리]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsrb100&layout=Demo&theme=tokyonight)
+
 
 <!--자바스크립트 배지-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
