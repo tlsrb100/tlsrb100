@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tlsrb100&show_icons=true&theme=solarized-light)
 
 #### 🛠️ Github Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsrb100&layout=Demo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsrb100&layout=compact&theme=tokyonight)
 
 
 <!--자바스크립트 배지-->
