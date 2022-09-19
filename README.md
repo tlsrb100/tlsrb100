@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 #### 🛠️ Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tlsrb100&show_icons=true&theme=calm)
+
 
 #### 🛠️ Github Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsrb100&layout=compact&theme=tokyonight)
