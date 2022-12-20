@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsrb100)](https://www.acmicpc.net/user/tlsrb100)
+<!-- #### 🎖️ Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsrb100)](https://www.acmicpc.net/user/tlsrb100) -->
 
 
 #### 🛠️ Github Stats
